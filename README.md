@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @dipikaxsharma
+- 👀 I’m interested in UI Engineering
+- 🌱 I’m currently pursing my degree in Computer Science
+- 💞️ I’m looking forward to working more on UI development and engineering.
+- 📫 How to reach me: sharmadipika55@hotmail.com
+
+<!---
+dipikaxsharma/dipikaxsharma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
