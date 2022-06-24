@@ -1,4 +1,4 @@
-##👋 Hi, I’m @dipikaxsharma
+👋 Hi, I’m @dipikaxsharma
 - 👀 I’m interested in UI Engineering
 - 🌱 I’m currently pursing my degree in Computer Science
 - 💞️ I’m looking forward to working more on UI development and engineering.
